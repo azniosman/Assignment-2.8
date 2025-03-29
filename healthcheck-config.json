@@ -1,0 +1,17 @@
+[
+  {
+    "Namespace": "aws:elb:healthcheck",
+    "OptionName": "Target",
+    "Value": "HTTP:80/"
+  },
+  {
+    "Namespace": "aws:elb:healthcheck",
+    "OptionName": "Interval",
+    "Value": "30"
+  },
+  {
+    "Namespace": "aws:elb:healthcheck",
+    "OptionName": "Timeout",
+    "Value": "10"
+  }
+]
